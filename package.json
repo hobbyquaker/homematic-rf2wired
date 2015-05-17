@@ -1,0 +1,33 @@
+{
+  "name": "homematic-rf2wired",
+  "version": "0.0.1",
+  "description": "Homematic-Wired Dimmer mit Homematic-RF Fernbedienung steuern",
+  "main": "index.js",
+  "dependencies": {
+    "binrpc": "^0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hobbyquaker/homematic-rf2wired"
+  },
+  "keywords": [
+    "Homematic",
+    "BidCoS",
+    "RF",
+    "Wired",
+    "Smarthome",
+    "Dimmer",
+    "Bridge",
+    "eQ-3"
+  ],
+  "author": "Sebastian 'hobbyquaker' Raff <hq@ccu.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hobbyquaker/homematic-rf2wired/issues"
+  },
+  "homepage": "https://github.com/hobbyquaker/homematic-rf2wired"
+}
